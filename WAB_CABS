@@ -1,0 +1,32 @@
+---
+title: "WB CABS"
+author: "Rendell E. de Kort"
+date: '2022-03-28'
+output: html_document
+---
+
+# Set up
+
+## Libraries
+```{r}
+library(tidyverse)
+library(tsibble)
+```
+
+#Data
+Read data from csv files.
+The analsis  will mostly rely on yearly data collected per island (CABS)
+
+All country data
+
+```{r}
+
+```
+
+# Shock profile
+
+
+```{r}
+
+```
+
